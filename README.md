@@ -19,6 +19,5 @@ Os casos de teste estão documentados nas issues deste repositório. Para visual
 
 4. **Documente os Resultados**:
    - Registre qualquer discrepância ou erro encontrado durante a execução do teste.
-   - Anexe evidências, como capturas de tela ou logs, para comprovar os resultados obtidos.
-
-Para mais detalhes sobre como executar os testes, consulte a documentação disponível na pasta `documentacao` deste repositório.
+   - Anexe evidências, como capturas de tela ou logs, para comprovar os resultados 
+como executar os testes, consulte a documentação disponível na pasta `documentacao` deste repositório.
