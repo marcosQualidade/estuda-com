@@ -1,0 +1,15 @@
+{
+  "name": "automacao",
+  "version": "1.0.0",
+  "description": "Projeto de automação de testes usando Cypress para verificar a funcionalidade de adicionar itens ao carrinho no site bstackdemo.com.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Marcos Colossi",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.16.1"
+  }
+}
