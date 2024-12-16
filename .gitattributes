@@ -1,0 +1,4 @@
+// arquivo chamado .gitattributes na raiz do seu projeto e adicione * text=auto
+// Isso garantirá que o Git trate todos os arquivos de texto de forma consistente.
+
+* text=auto
